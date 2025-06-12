@@ -1,0 +1,15 @@
+E:\B_M__Personal Profile\C#\ATM\ATM\bin\Debug\net9.0\ATM.exe
+E:\B_M__Personal Profile\C#\ATM\ATM\bin\Debug\net9.0\ATM.deps.json
+E:\B_M__Personal Profile\C#\ATM\ATM\bin\Debug\net9.0\ATM.runtimeconfig.json
+E:\B_M__Personal Profile\C#\ATM\ATM\bin\Debug\net9.0\ATM.dll
+E:\B_M__Personal Profile\C#\ATM\ATM\bin\Debug\net9.0\ATM.pdb
+E:\B_M__Personal Profile\C#\ATM\ATM\obj\Debug\net9.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+E:\B_M__Personal Profile\C#\ATM\ATM\obj\Debug\net9.0\ATM.AssemblyInfoInputs.cache
+E:\B_M__Personal Profile\C#\ATM\ATM\obj\Debug\net9.0\ATM.AssemblyInfo.cs
+E:\B_M__Personal Profile\C#\ATM\ATM\obj\Debug\net9.0\ATM.csproj.CoreCompileInputs.cache
+E:\B_M__Personal Profile\C#\ATM\ATM\obj\Debug\net9.0\ATM.sourcelink.json
+E:\B_M__Personal Profile\C#\ATM\ATM\obj\Debug\net9.0\ATM.dll
+E:\B_M__Personal Profile\C#\ATM\ATM\obj\Debug\net9.0\refint\ATM.dll
+E:\B_M__Personal Profile\C#\ATM\ATM\obj\Debug\net9.0\ATM.pdb
+E:\B_M__Personal Profile\C#\ATM\ATM\obj\Debug\net9.0\ATM.genruntimeconfig.cache
+E:\B_M__Personal Profile\C#\ATM\ATM\obj\Debug\net9.0\ref\ATM.dll
